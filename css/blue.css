@@ -1,7 +1,13 @@
 h1 {
   color: blue;
+  font-family: cursive;
 }
 
 h2 {
   color:teal;
+  font-family: cursive;
+}
+
+body {
+  background-color:#88aaff;
 }
